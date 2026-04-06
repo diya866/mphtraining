@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SpringBootAPIGateway
+server:
+  port: 7799
